@@ -1,0 +1,71 @@
+/****
+comon 
+
+
+*************/
+
+body{
+    font-family: monospace;
+}
+.font-primary{
+    color: #00abae;
+}
+.title-icon{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
+/*About*/
+
+#about{
+    margin: 60px auto;
+    max-width: 400px ;
+    text-align: center;
+}
+#about img{
+    margin-bottom: 10px;
+    width: 200px;
+    border-radius: 50%;
+}
+.name{
+    font-size: 20px;
+}
+.vocation{
+    font-size: 15px;
+    color: crimson;
+    margin-bottom: 10px;
+}
+.skills{
+    font-size: 15px;
+    color: rgb(93, 11, 27);
+    margin-bottom: 10px;
+}
+.email{
+    margin-top: 15px;
+    font-size: 15px;
+}
+.icons{
+    margin-top: 20px;
+    font-size: 30px;
+}
+.icons a{
+    color:black;
+
+}
+#project{
+    margin:60px auto;
+    width: 80%;
+}
+#project h2{
+    text-align: center;
+}
+.card img{
+    width: 100%;
+    border-radius: 3%;
+}
+.card-title{
+    font-weight: bold;
+    
+} 
